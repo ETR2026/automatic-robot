@@ -1,0 +1,8 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "Netlify serverless functions for VoltHire contact form",
+  "dependencies": {
+    "@sendgrid/mail": "^7.10.0"
+  }
+}
